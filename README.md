@@ -61,7 +61,7 @@ By default, the server will start at http://localhost:4000.
 ## 📂 Project Structure
 
 ```graphql
-  webEngine_Assignment/
+  WebEngine_Assignment/
   │── node_modules/        # Installed dependencies
   │── output.csv           # Generated CSV file (after API call)
   │── index.js             # Main Express server file
